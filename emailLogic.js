@@ -7,10 +7,7 @@ module.exports.sendEmail = async function (html) {
     service: "gmail",
     host: "smtp.gmail.com",
     secure: true, // true for 465, false for other ports
-    auth: {
-      user: "avnishkrsharma2@gmail.com", // generated ethereal user
-      pass: "doemaaymebylcutb" // generated ethereal password
-    },
+     auth : ".//credentials.json",  
   });
   // send mail with defined transport object
   await transporter.sendMail({
