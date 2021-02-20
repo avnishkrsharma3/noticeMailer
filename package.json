@@ -1,0 +1,19 @@
+{
+  "name": "noticemailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "emailLogic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avnishkrsharma3/noticeMailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avnishkrsharma3/noticeMailer/issues"
+  },
+  "homepage": "https://github.com/avnishkrsharma3/noticeMailer#readme"
+}
