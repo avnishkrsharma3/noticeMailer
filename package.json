@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/avnishkrsharma3/noticeMailer/issues"
   },
-  "homepage": "https://github.com/avnishkrsharma3/noticeMailer#readme"
+  "homepage": "https://github.com/avnishkrsharma3/noticeMailer#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.18"
+  }
 }
