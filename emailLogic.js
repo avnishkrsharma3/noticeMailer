@@ -12,7 +12,7 @@ module.exports.sendEmail = async function (html) {
   // send mail with defined transport object
   await transporter.sendMail({
     from: '"Avnish 🚀👻" <avnishkrsharma2@gmail.com>', // sender address
-    to: "avnishkrsharma3@gmail.com", // list of receivers
+    to: "avnishmel@gmail.com", // list of receivers
     subject: "Notice",
     html: html, // html body
   });
